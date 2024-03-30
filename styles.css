@@ -75,6 +75,9 @@ header h1{
 .item-add-content{
     border-radius: 10px;
 }
+input[type="text"] {
+    font-size: 2rem;
+}
 .description{
     font-size: 1rem;
     font-weight: bold;
@@ -92,6 +95,7 @@ header h1{
 .amount input{
     line-height: 2rem;
     border: none;
+   
 }
 .amount div{
     display: flex;
